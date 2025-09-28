@@ -1,4 +1,6 @@
-# sijajar
+# SIJAJAR
+
+Sistem Informasi Jadwal Belajar
 
 A new Flutter project.
 
